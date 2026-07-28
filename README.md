@@ -37,6 +37,7 @@ The analysis uses the **ChG-InterDecagon** drug–gene interaction dataset provi
 analysis_cleaned.ipynb   # Main analysis notebook
 figures/                 # Generated visualizations
 README.md
+ChG-InterDecagon_targets.csv # Data
 ```
 
 ## Results
